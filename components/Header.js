@@ -4,11 +4,10 @@ const Header = () => {
   return (
     <div>
       <h1 className={headerStyles.title}>
-        <span>Webdev</span>
-        News
+        <span>WebDev</span> News
       </h1>
       <p className={headerStyles.description}>
-        Keep up to date with the latest webdev news
+        Keep up to date with the latest web dev news
       </p>
     </div>
   )
